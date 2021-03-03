@@ -36,6 +36,7 @@ private:
 	TransformableImage::Matrix m_ScaleMatrix;
 	Points m_Start;
 
+	int m_TileIndexArraySize;
 	TileState* m_TileIndexArray;
 
 	inline TransformableImage::PointMatrix TransformPoint(const TransformableImage::PointMatrix& pixel_division);
