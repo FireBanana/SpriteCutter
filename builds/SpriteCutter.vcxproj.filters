@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\ATaleFromKillifishFalls\Engine\SpriteCutter\SpriteCutter\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\ATaleFromKillifishFalls\Engine\SpriteCutter\SpriteCutter\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\ATaleFromKillifishFalls\Engine\SpriteCutter\SpriteCutter\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\ATaleFromKillifishFalls\Engine\SpriteCutter\SpriteCutter\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\ATaleFromKillifishFalls\Engine\SpriteCutter\SpriteCutter\imgui_impl_glfw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\ATaleFromKillifishFalls\Engine\SpriteCutter\SpriteCutter\imgui_impl_opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\ATaleFromKillifishFalls\Engine\SpriteCutter\SpriteCutter\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CCED595C-BA3B-3C41-8DEF-20BB0171F1E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5DAFC177-92DF-32AF-9EF6-88B91AE2E984}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

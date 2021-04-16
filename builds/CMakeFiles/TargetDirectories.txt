@@ -1,0 +1,2 @@
+F:/ATaleFromKillifishFalls/Engine/SpriteCutter/builds/CMakeFiles/SpriteCutter.dir
+F:/ATaleFromKillifishFalls/Engine/SpriteCutter/builds/CMakeFiles/ALL_BUILD.dir
